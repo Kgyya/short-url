@@ -1,3 +1,4 @@
+![Python|3.9.2](https://img.shields.io/badge/Python-3.9.2-blue.svg)
 # TinyURL
   ### ScreeenShot:
 ![ini ss](https://github.com/Kgyya/short-url/blob/main/)
