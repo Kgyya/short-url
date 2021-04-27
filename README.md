@@ -2,7 +2,7 @@
 # TinyURL
   ### ScreeenShot:
 ![ini ss](https://github.com/Kgyya/short-url/blob/main/Screenshot_20210427_203553.jpg)
-![ini ss2](https://github.com/Kgyya/short-url/blob/main/)
+![ini ss2](https://github.com/Kgyya/short-url/blob/main/Screenshot_20210427_203613.jpg)
   ### Instalation:
 ```
 apt update && apt upgrade
