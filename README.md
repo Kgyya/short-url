@@ -1,8 +1,8 @@
 # TinyURL
   ### ScreeenShot:
-      ![ini ss](https://github.com/Kgyya/short-url/blob/main/)
+![ini ss](https://github.com/Kgyya/short-url/blob/main/)
   ### Instalation:
-      ```
+```
 apt update && apt upgrade
 apt install git
 apt install python
